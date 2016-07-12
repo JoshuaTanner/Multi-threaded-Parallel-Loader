@@ -1,4 +1,4 @@
-# Multi-threaded-Parallel-Loader-C-
+# Multi-threaded-Parallel-Loader
 Joshua Tanner
 Media Design School 2016
 
